@@ -10,11 +10,6 @@ import lombok.ToString;
 
 import java.io.Serializable;
 
-/**
- * This entity represents a vehicle in the INVOICING ACCOUNTING MODULE
- *
- * @author Stefan Laesser
- */
 @Getter
 @Setter
 @ToString

@@ -17,7 +17,8 @@ import java.util.Objects;
 @RequiredArgsConstructor
 @Entity
 @Table(name = "INVOICE")
-public class VehicleInvoice {
+public class VehicleInvoice
+{
 
   @EmbeddedId
   private VehicleInvoiceId id;
